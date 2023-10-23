@@ -1,3 +1,13 @@
+#estos son mis cambios o modificaciones de prueba en el archivo README
+Por supuesto que tambien podria modifacar el codigo y añadir ese
+cambio tanto de manera local como remota.
+los comandos en git-bash son
+git pull origin (nameBranch) main // para jalar cambios del repositorio remoto al repositorio local
+y
+git push origin (nameBranch) main // para empujar esos cambios locales al repositorio remoto
+
+
+
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
